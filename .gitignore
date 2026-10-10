@@ -1,3 +1,8 @@
+# OS and Build
+dist/
+.DS_Store
+Thumbs.db
+
 # Logs
 logs
 *.log
