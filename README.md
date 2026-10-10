@@ -71,3 +71,9 @@ Rollcall/
 â””â”€â”€ README.md
 ```
 
+
+## Live demo
+- **Voice commander:** ElevenLabs agent “Rollcall Commander”
+- **Telegram bot:** Rollcall Demo
+- **Live dashboard:** In progress / optional
+- **Demo flow:** Voice command ? n8n ? Supabase ? Telegram buttons ? Supabase status update
